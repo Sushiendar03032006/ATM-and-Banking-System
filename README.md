@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223040217
+# Name: Sushiendar M
+# Date: 16/5/2026
 
 
 # AIM:
@@ -48,6 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1067" height="862" alt="ATM Use Case" src="https://github.com/user-attachments/assets/d8f67b55-e542-43a6-952c-7a305f48f961" />
 
 
 
@@ -67,6 +68,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1169" height="728" alt="Screenshot 2026-05-16 093854" src="https://github.com/user-attachments/assets/3a2789cc-ae3b-4f7d-b671-e992ed34650b" />
 
 
 
@@ -106,6 +108,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="303" height="1283" alt="atm activity diagram" src="https://github.com/user-attachments/assets/4b2b91d9-e400-4627-ba9e-ae8f92ae3552" />
 
 
 
@@ -115,6 +118,8 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+<img width="926" height="885" alt="ATM Sequence" src="https://github.com/user-attachments/assets/c68cbbbe-6257-40af-aaa6-e11634d03b38" />
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
